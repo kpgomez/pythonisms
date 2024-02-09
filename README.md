@@ -21,3 +21,8 @@ i.e.
 - How do you run tests?
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc
+
+#### Attributions
+- [Expert Python Tutorial #1 - Overview of Python & How it Works](https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP&index=1)
+- [Expert Python Tutorial #2 - Dunder/Magic Methods & The Python Data Model](https://www.youtube.com/watch?v=z11P9sojHuM&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP&index=2)
+- [Expert Python Tutorial #4 - Decorators](https://www.youtube.com/watch?v=tfCz563ebsU&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP&index=4)
