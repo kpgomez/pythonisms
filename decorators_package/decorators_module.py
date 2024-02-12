@@ -1,4 +1,4 @@
-# decorators.py
+# decorators_module.py
 
 def func(f):
     def wrapper(*args, **kwargs):
@@ -19,7 +19,7 @@ def func2(x, y):
 
 @func
 def func3():
-    print("i am func3")
+    return "i am func3"
 
 
 # func3 = func(func3)

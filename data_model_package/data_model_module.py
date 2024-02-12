@@ -1,4 +1,4 @@
-# data_model.py
+# data_model_module.py
 from queue import Queue as q
 
 
@@ -60,7 +60,7 @@ print("after * shows", dog) # shows Dog(georginageorginageorginageorgina)
 dog(4) # shows 4
 
 cat = Cat("reese")
-print(cat) # shows Dat(reese)
+print(cat) # shows Cat(reese)
 print(len(cat))
 
 # example two
